@@ -3,6 +3,7 @@ Myntra HackerRamp 2024
 
 # Problem Statement
 Engagement on a shopping platform X Social Shopping Integration
+
 Design and develop a new feature for the shopping platform which connects with the GenZ audience.
 Ensure that the feature drives users to visit the app on a habitual basis.
 Integrate social media functionalities and user-generated content to aid the shopping platform feature with the intent of driving customer growth and conversion.
